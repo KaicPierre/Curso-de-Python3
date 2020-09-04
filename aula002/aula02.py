@@ -1,0 +1,6 @@
+# print(123456)
+# print('Kaic', 'Pierre', 'Outra Coisa')
+# print('Kaic', 'Pierre', sep='-', end='')
+# print('Testando', 'Outras', 'Coisas', sep='-', end='')
+print('428', '330', '048', sep='.', end='-')
+print('93')
