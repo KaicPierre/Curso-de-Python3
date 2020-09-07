@@ -1,7 +1,7 @@
 # Gerador de CPF
 from random import randint
 
-cpf = str(randint(000000000, 999999999))
+cpf = ''.join([str(randint(0, 9)) for quantidade_caracteres in range(9)])
 
 soma1 = 0
 soma2 = 0
